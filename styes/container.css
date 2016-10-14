@@ -1,0 +1,25 @@
+#container{
+    background-color:silver;
+    min-height:620px;
+    padding:15px;
+    margin-top: 18px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-width: 10px;
+    border-color:#32afae;
+    border-radius: 10px;
+    float: left;
+    
+
+    
+    
+    
+    
+}
+#container table tbody tr td{
+    width: 320px;
+    min-height:300px; 
+    word-wrap: normal;
+    font-family: cursive;
+    font-size: small;
+}

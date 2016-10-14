@@ -1,0 +1,37 @@
+#header{  
+    height: 100px;
+    width: auto;
+    padding: 25px;;
+    margin: 0px;   
+    border-width: 30px;
+    background-color:silver;
+	position: relative;   
+}
+#header li{
+    background-color:#416978;
+    list-style:none;
+    width: 100px;
+    height: 30px;
+    padding: 10px; 
+}
+#header li a{ 
+    text-decoration:none;
+     width: 100px;
+    height: 30px;
+    padding: 10px;
+    color:white;
+}
+#header li:hover {
+    background-color:#01c8c0;
+    border-bottom:10px;
+    border-bottom-color:#77017f;
+}
+#profile{
+    width: auto;
+  
+    margin-left: 80px;
+    background-color:silver;
+    color: green;
+    position:inherit;
+}
+
